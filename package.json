@@ -1,0 +1,34 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "engines": {
+    "node": "20.13.1" 
+  },
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "experss": "^0.0.1-security",
+    "expess": "^0.0.1-security",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "i": "^0.3.7",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.6.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.14",
+    "nodemon": "^3.1.4",
+    "npm": "^10.8.3",
+    "path": "^0.12.7",
+    "pdf-creator-node": "^2.3.5",
+    "xlsx": "^0.18.5"
+  }
+}
